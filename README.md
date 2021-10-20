@@ -32,4 +32,3 @@ https://pandas.pydata.org/
 
 ![image](https://user-images.githubusercontent.com/72232348/138174678-af2051e8-58a4-46e8-86ff-9fd87e0e9768.png)
 
-https://content.presspage.com/uploads/2658/c800_logo-stackoverflow-square.jpg?98978
