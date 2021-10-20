@@ -23,3 +23,8 @@ Most people are paid less than 1.00 and there are some people who are paid at ar
 
 ### A published blog on Medium can be found here:<br>
 https://medium.com/@1317129990yue/why-its-never-too-late-to-become-a-computer-scientist-81abd213f3bd
+
+### Acknowledgement:<br>
+
+https://insights.stackoverflow.com/survey
+https://pandas.pydata.org/
