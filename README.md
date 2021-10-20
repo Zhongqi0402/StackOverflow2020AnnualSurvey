@@ -21,3 +21,4 @@ The survey was fielded from February 5 to February 28, 2020. The median time spe
 One more conclusion(not for the purpose of these three questions):<br>
 Most people are paid less than 1.00 and there are some people who are paid at around 2.00. Less people are paid in the range between 1.00 to 2.00. Hence, only few people can achive really high salary and there is not much "middle" salary.
 
+### A published blog on Medium can be found here:https://medium.com/@1317129990yue/why-its-never-too-late-to-become-a-computer-scientist-81abd213f3bd
